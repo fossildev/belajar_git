@@ -3,6 +3,8 @@ import datetime
 now = datetime.datetime.now()
 
 print("hello bujank")
+a=10
+print(a)
 #add something
 print("Hello User! \n")
 
